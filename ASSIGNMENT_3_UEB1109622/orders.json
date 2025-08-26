@@ -1,0 +1,21 @@
+[
+  {
+    "order_id": 1001,
+    "customer_id": 1,
+    "product_ids": [101, 102],
+    "date": "2025-08-08"
+  },
+  {
+    "order_id": 1002,
+    "customer_id": 2,
+    "product_ids": [102],
+    "date": "2025-08-05"
+  },
+
+  {
+    "order_id": 1003,
+    "customer_id": 3,
+    "product_ids": [103],
+    "date": "2025-08-20"
+  }
+]
